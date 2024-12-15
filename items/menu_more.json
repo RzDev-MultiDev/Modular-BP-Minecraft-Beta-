@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "renz:mrtools",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "compass_item"
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:glint": true,
+			"minecraft:display_name": {
+				"value": "§eMore Tools §fMenu"
+			}
+		}
+	}
+}
